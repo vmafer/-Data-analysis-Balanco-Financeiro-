@@ -23,5 +23,5 @@
 #
 
 <h3>Conteitos Utilizados: </h3>
-  <li> Para manipulação dos arquivos: </br> with open(); readlines(); wrtite(); writelines()
-  <li> Para manipulação dos vetores (e strings): </br> split(); append(); for(); while() min(); max()
+  <li> Para manipulação dos arquivos: </br> <p>with open(); readlines(); write(); writelines()</p>
+  <li> Para manipulação dos vetores (e strings): </br> <p>split(); append(); for(); while(); min(); max()</p>
